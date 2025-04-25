@@ -1,0 +1,2 @@
+/Users/h1eu/clima/android/app/.cxx/Debug/17276pg4/x86/CMakeFiles/edit_cache.dir
+/Users/h1eu/clima/android/app/.cxx/Debug/17276pg4/x86/CMakeFiles/rebuild_cache.dir
